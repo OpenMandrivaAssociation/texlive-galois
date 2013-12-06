@@ -6,7 +6,7 @@
 # catalog-version 1.5
 Name:		texlive-galois
 Version:	1.5
-Release:	5
+Release:	6
 Summary:	Typeset Galois connections
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/galois
